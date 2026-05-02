@@ -18,7 +18,7 @@ print( total )
 if ( edad < 18 ):
     print(" Puede entrar al cine Adulto  ")
 else:
-    print ("---- !!!!! OJO !!!!!! ---- ")
+    print ("---- !!!!! OJO !!!!!! ---- XXXXXXXXXXXXXXXXXXXXX ")
 
 """ Otra cosa """
 
